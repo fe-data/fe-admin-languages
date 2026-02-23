@@ -14,5 +14,5 @@ Mind you:
 
 1. We will only process pull requests that originate from Gitlocalize and will not process pull requests from private forks.
 1. For initial translations, we will only accept a full translation of the entire file. Partial translations will be rejected.
-1. Once we have processed the pull request, the translation will be available in the next release of the App.
+1. Once the pull request has been processed, the new translation will be available in the app’s settings. Reload the translations and select the new language.
 1. There is only 1 moderator per language.
